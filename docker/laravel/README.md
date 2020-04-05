@@ -18,8 +18,6 @@ docker pull diovanes/laravel
 
 ⇒ docker-compose up -d
 
-Imagem DockerHub
-https://hub.docker.com/repository/docker/diovanes/codeeducation
+#### Desafio - Docker Parte 2 Go
 
-⇒ docker push diovanes/codeeducation
-⇒ docker run diovanes/codeeducation
+https://github.com/Diovanes/microservices/tree/master/docker/go
